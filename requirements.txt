@@ -14,3 +14,6 @@ pytesseract==0.3.8
 requests==2.27.1
 urllib3==1.26.8
 Werkzeug==2.0.2
+chardet==1.0.1
+distribute==0.6.24
+gunicorn==0.14.2
